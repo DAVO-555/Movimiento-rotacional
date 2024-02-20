@@ -6,7 +6,6 @@ grid on
 title("Posición");
 xlabel("Tiempo");
 ylabel("Posición");
-
 figure(2)
 plot(t,x(:,2),'r');
 grid on
